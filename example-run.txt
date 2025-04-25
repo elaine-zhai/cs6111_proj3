@@ -1,0 +1,73 @@
+==Frequent itemsets (min_sup=5%)
+[Critical], 100%
+[Manhattan], 35%
+[Critical,Manhattan], 35%
+[Queens], 26%
+[Critical,Queens], 26%
+[A], 26%
+[A,Critical], 26%
+[Brooklyn], 26%
+[Brooklyn,Critical], 26%
+[American], 15%
+[American,Critical], 15%
+[02G], 12%
+[02G,Critical], 12%
+[06C], 12%
+[06C,Critical], 12%
+[06D], 12%
+[06D,Critical], 12%
+[Chinese], 11%
+[Chinese,Critical], 11%
+[02B], 10%
+[02B,Critical], 10%
+[A,Manhattan], 10%
+[A,Critical,Manhattan], 10%
+[Bronx], 10%
+[Bronx,Critical], 10%
+[04L], 9%
+[04L,Critical], 9%
+[04N], 8%
+[04N,Critical], 8%
+[American,Manhattan], 7%
+[American,Critical,Manhattan], 7%
+[Coffee/Tea], 7%
+[Coffee/Tea,Critical], 7%
+[N], 7%
+[Critical,N], 7%
+[A,Brooklyn], 7%
+[A,Brooklyn,Critical], 7%
+[A,Queens], 6%
+[A,Critical,Queens], 6%
+[Z], 6%
+[Critical,Z], 6%
+[B], 6%
+[B,Critical], 6%
+[Pizza], 6%
+[Critical,Pizza], 6%
+[04A], 5%
+[04A,Critical], 5%
+
+==High-confidence association rules (min_conf=70%)
+[Queens] => [Critical] (Conf: 100.0%, Supp: 26.4%)
+[A] => [Critical] (Conf: 100.0%, Supp: 26.1%)
+[N] => [Critical] (Conf: 100.0%, Supp: 6.8%)
+[02B] => [Critical] (Conf: 100.0%, Supp: 10.1%)
+[Bronx] => [Critical] (Conf: 100.0%, Supp: 9.7%)
+[B] => [Critical] (Conf: 100.0%, Supp: 5.7%)
+[Pizza] => [Critical] (Conf: 100.0%, Supp: 5.6%)
+[Brooklyn] => [Critical] (Conf: 100.0%, Supp: 26.1%)
+[Manhattan] => [Critical] (Conf: 100.0%, Supp: 34.8%)
+[American] => [Critical] (Conf: 100.0%, Supp: 14.9%)
+[Z] => [Critical] (Conf: 100.0%, Supp: 5.8%)
+[Coffee/Tea] => [Critical] (Conf: 100.0%, Supp: 7.0%)
+[Chinese] => [Critical] (Conf: 100.0%, Supp: 10.6%)
+[04L] => [Critical] (Conf: 100.0%, Supp: 8.8%)
+[02G] => [Critical] (Conf: 100.0%, Supp: 11.9%)
+[06D] => [Critical] (Conf: 100.0%, Supp: 11.7%)
+[04N] => [Critical] (Conf: 100.0%, Supp: 7.6%)
+[06C] => [Critical] (Conf: 100.0%, Supp: 11.8%)
+[04A] => [Critical] (Conf: 100.0%, Supp: 5.3%)
+[A,Queens] => [Critical] (Conf: 100.0%, Supp: 6.1%)
+[A,Brooklyn] => [Critical] (Conf: 100.0%, Supp: 6.8%)
+[A,Manhattan] => [Critical] (Conf: 100.0%, Supp: 9.9%)
+[American,Manhattan] => [Critical] (Conf: 100.0%, Supp: 7.0%)
